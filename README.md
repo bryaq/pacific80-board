@@ -8,8 +8,8 @@
 - Storage: CompactFlash (and/or SD card perhaps in the future)
 - Video:
     - VGA output
-    - SIngle graphic mode: 320x240, 4 colors per pixel, fixed pallette
-    - transparent memory access without slowing down the CPU (the idea taken from "Специалист" ("Specialist", soviet-era home computer))
+    - Single graphics mode: 320x240, 4 colors per pixel, fixed pallette
+    - Transparent memory access without slowing down the CPU (the idea taken from "Специалист" ("Specialist", soviet-era home computer))
     - MB14241-like accelerator (is it worth it?) as a separate board
 - Sound: 3 channels + noise with SN76489A
 - Keyboard: PS/2 with AT90S2313
