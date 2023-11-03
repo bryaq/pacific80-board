@@ -8,7 +8,7 @@
 - Storage: CompactFlash (and/or SD card perhaps in the future)
 - Video:
     - VGA output
-    - Single graphics mode: 320x240, 4 colors per pixel, fixed pallette
+    - Single graphics mode: 320x240, 4 colors per pixel, fixed palette
     - Transparent memory access without slowing down the CPU (the idea taken from "Специалист" ("Specialist", soviet-era home computer))
     - MB14241-like accelerator (is it worth it?) as a separate board
 - Sound: 3 channels + noise with SN76489A
